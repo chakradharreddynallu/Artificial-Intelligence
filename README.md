@@ -1,4 +1,4 @@
-# Artificial-Intelligence
+# Task Tree Retrieval For Robotic Cooking
 The project is about how a robot is going to cook the required recipe from the given universal recipe file(FOON.TXT))
 
 <p>I have imlemented the Iterative Depth First Search(IDFS) algorithm to retrieve the task tree for cooking process of a recipe. The implemented code is 
